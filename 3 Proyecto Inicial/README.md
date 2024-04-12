@@ -5,6 +5,6 @@
 
 3. **Parte 3: Exploración de Herramientas de Desarrollo**
 
-Esta carpeta contiene un proyecto wokwi: ESP32 Web Server - Servidor HTTP que controla 2 LEDs, ademas de un archivo jpg llamado 'Screenshot' en la que se visualizar una captura de pantalla del proyecto en funcionamiento.
+Esta carpeta contiene un proyecto wokwi: ESP32 Web Server - Servidor HTTP que controla 2 LEDs, ademas de un archivo png llamado 'Screenshot' en la que se puede visualizar una captura de pantalla del proyecto en funcionamiento.
 
 ---

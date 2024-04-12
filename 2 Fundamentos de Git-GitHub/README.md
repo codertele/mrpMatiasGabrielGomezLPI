@@ -5,6 +5,6 @@
 
 2. **Parte 2: Introducción a Git y GitHub**
 
-Este carpeta contiene un archivo pdf con un resumen de uso y comandos Git/GitHub esenciales para el desarrollo colaborativo de software.
+Esta carpeta contiene un archivo pdf con un resumen de uso y comandos Git/GitHub esenciales para el desarrollo colaborativo de software.
 
 ---
